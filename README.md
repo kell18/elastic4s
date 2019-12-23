@@ -22,6 +22,9 @@ Elastic4s supports Scala collections so you don't have to do tedious conversions
 * Provides [reactive-streams](#elastic-reactive-streams) implementation
 * Provides a testkit subproject ideal for your tests
 
+### Documentation
+Documentation is available at [sksamuel.github.io](https://sksamuel.github.io/elastic4s/)
+
 ### Release
 
 Current Elastic4s versions support Scala 2.12 and 2.13. Scala 2.10 support has been dropped starting with 5.0.x and Scala 2.11 has been dropped starting with 7.2.0. For releases that are compatible with earlier versions of Elasticsearch,
